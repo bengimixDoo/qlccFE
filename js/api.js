@@ -3,7 +3,7 @@
  * !!! THAY THẾ URL NÀY BẰNG URL TỪ NGROK CỦA BẠN !!!
  * (Phải giống hệt URL trong file auth.js)
  */
-const API_BASE_URL = "https://dd4e2a7c6b16.ngrok-free.app"; // <--- THAY URL NÀY
+const API_BASE_URL = "https://788af9c5dc94.ngrok-free.app"; // <--- THAY URL NÀY
 
 /**
  * Hàm 'fetch' tùy chỉnh, tự động đính kèm Token
