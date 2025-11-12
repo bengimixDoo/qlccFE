@@ -2,7 +2,7 @@
  * URL CƠ SỞ CỦA API.
  * !!! THAY THẾ URL NÀY BẰNG URL TỪ NGROK CỦA BẠN !!!
  */
-const API_BASE_URL = "https://788af9c5dc94.ngrok-free.app"; // <--- THAY URL NÀY
+const API_BASE_URL = "https://7626e9ef494c.ngrok-free.app"; // <--- THAY URL NÀY
 
 // Chạy ngay khi DOM được tải
 document.addEventListener("DOMContentLoaded", () => {
